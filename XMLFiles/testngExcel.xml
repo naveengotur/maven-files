@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="day17_ExcelReading.CreateMultipleUserwithExcelData2"/>
+      <class name="day17_ExcelReading.ReadExcel2"/>
+      <class name="day17_ExcelReading.CreateMultipleUserwithExcelData"/>
+      <class name="day17_ExcelReading.ReadExcel3"/>
+      <class name="day17_ExcelReading.ReadExcel"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

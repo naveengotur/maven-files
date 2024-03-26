@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="day18_readingConfigFile.ReadConfig"/>
+      <class name="day18_readingConfigFile.ReadConfig2"/>
+      <class name="day18_readingConfigFile.ReadConfig3"/>
+      <class name="day18_readingConfigFile.ExpertReportDemo3"/>
+      <class name="day18_readingConfigFile.ExpertReportDemo"/>
+      <class name="day18_readingConfigFile.ExpertReportDemo2"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

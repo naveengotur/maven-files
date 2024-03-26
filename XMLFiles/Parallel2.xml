@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="classes" name="Suite">
+  <test name="Test1">
+    <classes>
+      <class name="day16_Parallel_CrossBrowser_DDT.Manage_Emp"/>
+      <class name="day16_Parallel_CrossBrowser_DDT.User"/>
+    </classes>
+  </test>
+  
+  <test name="Test2">
+    <classes>
+      <class name="day16_Parallel_CrossBrowser_DDT.LoginApp"/>
+      
+    </classes>
+  </test>
+</suite> 
